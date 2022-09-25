@@ -15,7 +15,7 @@
       <Label layoutX="50.0" layoutY="145.0" text="Welcome to Connect 4 Game, please enter your name to create a new player" />
       <JFXTextField fx:id="txtName" labelFloat="true" layoutX="50.0" layoutY="218.0" mouseTransparent="true" prefHeight="23.0" prefWidth="500.0" promptText="Enter your name" />
       <JFXButton fx:id="btnPlay" defaultButton="true" layoutX="254.0" layoutY="278.0" onAction="#btnPlayOnAction" text="PLAY !" />
-      <Label layoutX="99.0" layoutY="390.0" styleClass="small" text="Copyright © 2022 DEP. All Rights Reserved. This project is licensed under the MIT license." />
+      <Label layoutX="99.0" layoutY="390.0" styleClass="small" text="Copyright © 2022 DEP. All Rights Reserved. This assignment is owned by Lakshan Chamoditha Perera." />
       <ImageView fitHeight="62.0" fitWidth="62.0" layoutX="270.0" layoutY="31.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../asset/connect-four.png" />
